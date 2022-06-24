@@ -1,4 +1,4 @@
-﻿
+
 /*************************
 *******Typography******
 **************************/
@@ -13,12 +13,11 @@ body {
   font-weight:400px;
 }
 .rols-colam{
+  width: 100%;
   background: blue;
-  padding-top: 5px;
  color: #FFF;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
-  margin: 40px;
 }
 
 .rols{
@@ -31,7 +30,7 @@ padding-right: 10%;
 
 }
 p{
-font-size: 25px;
+font-size: 18px;
 
 
 }
@@ -73,12 +72,12 @@ background: #FE980F;
 
 }
 .items{
-  width: 19%;
+  width: 18%;
   display: inline-block;
   margin: auto;
 margin: auto;
 text-align: center;
-font-size:6px;
+font-size: 12px;
 
 
 }
@@ -99,7 +98,7 @@ font-size:6px;
 }
 
 .active {
-	  background: #FE980F;
+	  background:;
     color: #FFF;
 }
 
@@ -208,15 +207,16 @@ font-size:6px;
 table, td, th {
   border: 1px solid;
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   color: #000;
   background:#FE980F  ;
 }
 
 td {
+
   border: 1px solid;
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   color: #000;
   background:#FE980F  ;
   position: relative;
