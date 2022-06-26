@@ -1,4 +1,5 @@
 
+
 /*************************
 *******Typography******
 **************************/
@@ -15,6 +16,7 @@ body {
 .rols-colam{
   width: 100%;
   background: blue;
+  border-radius:15px ;
  color: #FFF;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
@@ -52,11 +54,34 @@ border-radius: 10px;
 
 
 .zinsa{
-  background:deepskyblue;
-
+  width: 100%;
+background: skyblue;
+border-radius:15px ;
 color: #000;
 text-align:center ;
 font-size: 25px;
+}
+.copy{
+  width: 100%;
+  background:yellowgreen;
+ color: #FFF;
+ border-radius:15px ;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+
+
+
+}
+
+.rolsimg{
+ width: 100%;
+  background:fff;
+ 
+ border-radius:15px ;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+
+
 }
 
 .list-item  {
